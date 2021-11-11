@@ -1,1 +1,3 @@
-console.log(111);
+$( "#gamb" ).click(function() {
+    $( ".mini-navi" ).toggle(600);
+  });
